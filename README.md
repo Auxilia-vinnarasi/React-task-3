@@ -1,4 +1,4 @@
-Netlify: auxilia-b25g-react-task3.netlify.app
+Netlify: https://auxilia-b25g-react-task3.netlify.app/
 
 # Getting Started with Create React App
 
